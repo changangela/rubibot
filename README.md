@@ -16,9 +16,9 @@ $ cd rubibot
 ```
 ### Hardware
 Use ```rubibot-arduino``` as sketchbook and run inside Arduino IDE. Both power supply and computer must be plugged in for full power using current configurations, otherwise adjust the servo configuration values.
-<p align="center">
-  <img src="img/schematics.png" height=450px/>
-</p>
+
+![](img/schematics.png)
+
 
 ### React-native Server
 ```bash
@@ -42,6 +42,5 @@ $ python start-server.py # whichever one works
 ```
 
 ## Design
-<p align="center">
-  <img src="img/rubibot.jpg" height=300px/>
-</p>
+
+![](img/rubibot.jpg)
